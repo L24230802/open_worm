@@ -6,5 +6,5 @@ calificacion3 = float(input("Ingrese la tercera calificación: "))
 # Calcular el promedio
 promedio = (calificacion1 + calificacion2 + calificacion3) / 3
 
-# Mostrar el promedio
+# Mostrar el 
 print(f"El promedio de las calificaciones es: {promedio:.2f}")
